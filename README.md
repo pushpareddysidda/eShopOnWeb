@@ -1,6 +1,7 @@
 # First deployment-04022026
 Updated environment variable
 redeploy
+
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 This Microsoft reference application is now being maintained by [NimblePros](https://nimblepros.com/).
